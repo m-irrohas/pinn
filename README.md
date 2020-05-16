@@ -8,4 +8,4 @@ This code is mainly from
 - Raissi, Maziar, Paris Perdikaris, and George Em Karniadakis. "Physics Informed Deep Learning (Part II): Data-driven Discovery of Nonlinear Partial Differential Equations." arXiv preprint arXiv:1711.10566 (2017).
 
 ## Results
-![result1](https://github.com/m-irrohas/pinn/blob/master/output/u_pred.png){#fig:id}
+prediction of u ![result1](https://github.com/m-irrohas/pinn/blob/master/output/u_pred.png) true of u ![result2](https://github.com/m-irrohas/pinn/blob/master/output/p_ture.png)
